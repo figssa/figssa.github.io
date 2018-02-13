@@ -1,0 +1,11 @@
+# Site settings
+title: FIG SSA
+header-img: img/6x.JPG
+description: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
